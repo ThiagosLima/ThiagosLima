@@ -6,15 +6,15 @@
 <h2 align="center">You can find me here</h2>
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/thiago-lima-/">
+  <a href="https://www.linkedin.com/in/thiago-lima-/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://dev.to/thiagoslima">
+  <a href="https://dev.to/thiagoslima" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
-  <a href="https://twitter.com/ThiagoSLima_">
+  <a href="https://twitter.com/ThiagoSLima_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
